@@ -1,7 +1,7 @@
 # training-git
 
 
-## thsi
+## th
 
 + 1 
 + 2
@@ -10,8 +10,8 @@
 1. UN 
 2. DEUX 
 
-Formation **GIT**
-Formation *GIT*
+ hello **GIT**
+hello *GIT*
 
 ---
 
